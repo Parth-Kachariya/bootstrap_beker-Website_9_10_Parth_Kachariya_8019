@@ -1,16 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-nav{
-    position: relative;
+.bg_img {
+  background-image: url("../asset/images/header-img.png");
+  height: 120vh;
+  background-size: cover;
+  background-position: top;
 }
-.head{
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 220px;
-    z-index: -1;
+.dick{
+    width: 37%;
+}
+.heading{
+    width: 30%;
 }
