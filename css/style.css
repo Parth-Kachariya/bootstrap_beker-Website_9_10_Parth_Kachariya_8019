@@ -6,12 +6,15 @@
 .bg_img {
   background-image: url("../asset/images/header-img.png");
   height: 120vh;
-  background-size: cover;
+  background-size: cover !important;
   background-position: top;
 }
-.dick{
+.bg_color{
+  background-color: #f5f5f5;
+}
+/* .dick{
     width: 37%;
 }
 .heading{
     width: 30%;
-}
+} */
