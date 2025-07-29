@@ -33,14 +33,8 @@ input::placeholder{
 }
 @media (max-width: 576px) {
   .bg_img {
-    background-position: right -120px center;
+    background-position: right -150px center;
     min-height: auto;
   }
-  /* header{
-    background:;
-  } */
-  /* .bg_img  {
-    background: linear-gradient(to right, #dceef0, #dceef0, transparent);
-    z-index: -1000;
-} */
+ 
 }
