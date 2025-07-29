@@ -33,7 +33,7 @@ input::placeholder{
 }
 @media (max-width: 576px) {
   .bg_img {
-    background-position: right -150px center;
+    background-position: right -200px center;
     min-height: auto;
   }
  
