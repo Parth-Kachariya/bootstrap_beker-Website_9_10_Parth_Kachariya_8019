@@ -3,9 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
-header{
-  background: #FFFFFF;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(199, 233, 255, 1) 100%);
+header {
+  background: #ffffff;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(199, 233, 255, 1) 100%
+  );
 }
 
 .bg_color {
@@ -16,11 +20,14 @@ header{
   outline: none !important;
   box-shadow: none !important;
 }
-input::placeholder{
+input::placeholder {
   color: #6c757d;
   font-weight: 500;
 }
-.width{
-  max-width: 300px ;
+.width {
+  max-width: 300px;
 }
-
+.heading,
+.dick {
+  max-width: 430px;
+}
